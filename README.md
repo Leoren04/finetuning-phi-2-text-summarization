@@ -82,9 +82,9 @@ Summary: {target summary}
 
 | Metric | Value |
 |--------|-------|
-| **ROUGE-1** | See notebook output |
-| **ROUGE-2** | See notebook output |
-| **ROUGE-L** | See notebook output |
+| **ROUGE-1** | 22.19% |
+| **ROUGE-2** | 6.22% |
+| **ROUGE-L** | 17.64% |
 | **Training Epochs** | 2 |
 | **LoRA Rank (r)** | 16 |
 | **Trainable Params** | ~1% of 2.7B |
